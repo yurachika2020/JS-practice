@@ -1,4 +1,4 @@
-console.log('Hi!');
+console.log('Hello!');
 
 setTimeout(() => {
     console.log('Execute immediately.');
